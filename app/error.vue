@@ -18,7 +18,7 @@ if (is404) {
 
     if (countdown.value <= 0) {
       clearInterval(timer)
-      window.location.href = 'https://kzurl10.cn/t2z8oz'
+      window.location.href = 'https://u.jd.com/HDiRYot'
     }
   }, 1000)
 }
